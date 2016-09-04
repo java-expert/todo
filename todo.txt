@@ -1,10 +1,10 @@
-Revise below 
-1. Eclipselink -------in progress
+revise again
+1. Eclipselink -------in progress pending mappings and strategies
 2. Core java ----------in progress
 3. gradle project setup ------in progress
 4. android   ------- in progress
 5. Angular
-6. Design patterns -----------in progress
+6. Design patterns
 7. springboot
 8. spring integration framework
 9. websocket
